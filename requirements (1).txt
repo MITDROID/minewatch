@@ -1,5 +1,5 @@
 streamlit
-planetary-computer
+planetary_computer
 pystac-client
 stackstac
 numpy
