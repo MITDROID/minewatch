@@ -1,9 +1,11 @@
 streamlit
-pystac-client
 planetary-computer
+pystac-client
 stackstac
 numpy
 matplotlib
 scikit-learn
 requests
 rasterio
+aiohttp
+ 
